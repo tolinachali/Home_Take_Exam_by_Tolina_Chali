@@ -1232,6 +1232,10 @@ The Average Levenshtein distance among all pairs for miRNA family let-7l: 12.00
 The frequency of miRNA family let-7l: 2
 
 ## Plot of average levenshtein distance for each let-7 miRNA across all species
+# Note : 
+In summary, this code helps in understanding the diversity of miRNA sequences within 
+different families by calculating the average Levenshtein distance and visualizing the results. 
+It can be useful in studying the evolutionary relationships and functional implications of miRNA families.
 
 ![Q# 5 Plot of average levenshtein distance for each Let-7 miRNA across all species](https://github.com/tolinachali/Home_Take_Exam_by_Tolina_Chali/assets/130226558/526da1ac-a6d5-4889-ab88-4ad319df9763)
 
