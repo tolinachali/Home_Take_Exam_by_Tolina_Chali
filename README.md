@@ -72,8 +72,8 @@ can advance their knowledge in diverse areas, ranging from basic biological rese
 ## Question 3a : what is the current version of miRBase?
 ## Answer : 
 Current version of miRBase: 22.1
-## Question 3b :
-## Task: generate a plot to show which let miRNAs are present in each species.
+## Question 3b :  generate a plot to show which let miRNAs are present in each species.
+
 
 
 
