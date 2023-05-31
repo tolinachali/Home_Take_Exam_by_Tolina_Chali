@@ -17,8 +17,8 @@ The chart shows the number of microRNA per species in ascending order of counts.
 ## Question 2: how many let-7 miRNAs are there in the current release of miRBase
 # Answer : 
 Total number of let-7 miRNAs across all species: 740
-Importance of the Code for Counting "let-7" miRNAs
 
+Importance of the Code for Counting "let-7" miRNAs
 The provided code serves the purpose of counting the occurrences of a specific type of microRNA, "let-7," in a given file. Here is a discussion on the importance of this code:
 
 1. Analyzing a Specific miRNA:
