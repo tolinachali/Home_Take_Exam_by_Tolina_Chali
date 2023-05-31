@@ -73,6 +73,7 @@ can advance their knowledge in diverse areas, ranging from basic biological rese
 ## Answer : 
 Current version of miRBase: 22.1
 ## Question 3b :  generate a plot to show which let miRNAs are present in each species.
+![logo plot of Q# 3b](https://github.com/tolinachali/Home_Take_Exam_by_Tolina_Chali/assets/130226558/2770b498-22b1-44e4-872c-9733e764843a)
 
 
 
