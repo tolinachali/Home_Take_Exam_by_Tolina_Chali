@@ -202,6 +202,7 @@ Average Levenshtein distance for let-7 miRNA in species 'oni-': 2.78
 Average Levenshtein distance for let-7 miRNA in species 'pny-': 2.83
 
 Average Levenshtein distance for let-7 miRNA in species 'gmo-': 9.30
+
 Average Levenshtein distance for let-7 miRNA in species 'dqu-': 15.00
 
 Average Levenshtein distance for let-7 miRNA in species 'pca-': 15.00
@@ -217,6 +218,7 @@ Average Levenshtein distance for let-7 miRNA in species 'dno-': 9.68
 Average Levenshtein distance for let-7 miRNA in species 'ocu-': 9.72
 
 Average Levenshtein distance for let-7 miRNA in species 'mle-': 13.00
+
 Average Levenshtein distance for let-7 miRNA in species 'ppa-': 2.57
 
 Average Levenshtein distance for let-7 miRNA in species 'mmr-': 2.10
