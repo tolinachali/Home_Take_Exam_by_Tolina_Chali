@@ -69,6 +69,8 @@ the identification, characterization, and analysis of this particular microRNA f
 By understanding the prevalence and functional relevance of let-7 miRNAs, researchers 
 can advance their knowledge in diverse areas, ranging from basic biological research to disease-related investigations.
 
+## Question 3: what is the current version of miRBase?
+
 
 
 
