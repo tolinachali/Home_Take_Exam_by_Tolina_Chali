@@ -70,6 +70,8 @@ By understanding the prevalence and functional relevance of let-7 miRNAs, resear
 can advance their knowledge in diverse areas, ranging from basic biological research to disease-related investigations.
 
 ## Question 3: what is the current version of miRBase?
+## Answer : 
+Current version of miRBase: 22.1
 
 
 
