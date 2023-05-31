@@ -14,3 +14,4 @@ The chart shows the number of microRNA per species in ascending order of counts.
 ## Answer: 
 ![an ordered plot  of number of miRNAs](https://github.com/tolinachali/Home_Take_Exam_by_Tolina_Chali/assets/130226558/cb614fc3-3ed7-4737-b6e0-ab0630d5471f)
 
+## Question 2: how many let-7 miRNAs are there in the current release of miRBase
